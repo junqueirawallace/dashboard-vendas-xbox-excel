@@ -38,3 +38,9 @@ Esta versão foi criada sem acesso à base e ao dashboard de referência do curs
 
 ## Objetivo de aprendizagem
 Praticar organização de dados, criação de indicadores, visualização de informações e documentação de um projeto para portfólio no GitHub.
+
+## Autor
+
+### Wallace F. Junqueira
+
+Graduado em Tecnologia em Logística. Estudante de Gestão da Tecnologia da Informação. Pós Graduado em MBA Data Warehouse e Business Intelligence
