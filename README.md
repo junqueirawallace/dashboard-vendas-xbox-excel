@@ -2,7 +2,8 @@
 
 Projeto educacional de análise e visualização de dados no Microsoft Excel. Organiza registros de assinaturas do ecossistema Xbox e os transforma em indicadores e gráficos.
 
-![Dashboard Xbox](imagens/dashboard-xbox.png)
+![Dashboard Xbox](imagens/dashboard-xbox.png)<img width="907" height="703" alt="dashboard-xbox png" src="https://github.com/user-attachments/assets/c12740c7-3757-4649-adea-ed248c821cd8" />
+
 
 > **Nota:** a base é **demonstrativa e fictícia**, criada para estudo. Os valores não são dados oficiais da Microsoft/Xbox.
 
